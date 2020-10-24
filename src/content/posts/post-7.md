@@ -1,8 +1,8 @@
 ---
 type: 'post'
-date: '2020-10-24'
+date: '2020-10-23'
 image: '../../images/blog-image-7.jpg'
-slug: 'post-7'
+slug: 'post-6'
 title: 'Tour to Purulia'
 published: true
 ---
